@@ -1,0 +1,12 @@
+Sky: background-image: url(https://tinyhorse.com/wp-content/uploads/2019/04/Tiny-Horse-Marketing-Agency-Contact.jpg);background-attachment: scroll; background-position: center center; "
+Middle gradient: data-bg="https://cdn.shortpixel.ai/client/q_lossy,ret_img/https://tinyhorse.com/wp-content/uploads/2019/04/Tiny-Horse-Agency-Gradient.jpg"
+Background color: f4eae9
+
+
+tiny-horse logo: https://tinyhorse.com/wp-content/uploads/2019/04/Tiny-Horse-logo-White-300x138.png
+ navbar background: #212326
+ border-bottom-color: #ce6451
+
+
+footer logo:  https://sp-ao.shortpixel.ai/client/to_avif,q_lossy,ret_img/https://tinyhorse.com/wp-content/uploads/2019/04/Tiny-Horse-logo-White-footer.png
+teamwWhistle logo: https://sp-ao.shortpixel.ai/client/to_avif,q_lossy,ret_img/https://tinyhorse.com/wp-content/uploads/2020/06/TeamWhistle.png
